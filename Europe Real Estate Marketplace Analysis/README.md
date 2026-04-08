@@ -36,14 +36,14 @@ Before importing into Power BI, I used **Python (Pandas)** to handle the heavy l
 * **Architecture:** Star Schema (Fact/Dimension Modeling)
 
 ## 🔗 Project Links
-* **Live Demo:** https://app.powerbi.com/view?r=eyJrIjoiYTJlMzRlNGItNzQ3Ni00NjJiLTlkNjUtN2M4OGE3NzQzMDIyIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9
+* **[Live Report Demo](https://app.powerbi.com/view?r=eyJrIjoiYTJlMzRlNGItNzQ3Ni00NjJiLTlkNjUtN2M4OGE3NzQzMDIyIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)** - Interactive Power BI Dashboard.
 * **Python notebook:** Check the `/Notebook` folder for the modeling code.
 
 ---
 ## 👨‍💼 Contact Me
-I am a Data Professional passionate about the intersection of Data Science and Human Resources (People Analytics).
+I am a Data Professional passionate about the Data Analysis Field.
 
 * **Name:** Eng. Mohammed Ramadan
-* **LinkedIn:** https://www.linkedin.com/in/mohamed-ramadan-rah
-* **Email:** mohammedramadanqawouq@gmail.com
-* **WhatsApp:** https://wa.me/201280779842
+* **LinkedIn:** [Mohammed Ramadan Qawouq](https://www.linkedin.com/in/mohamed-ramadan-rah)
+* **Email:** [mohammedramadanqawouq@gmail.com](mailto:mohammedramadanqawouq@gmail.com)
+* **WhatsApp:** [Chat with me](https://wa.me/201280779842)
