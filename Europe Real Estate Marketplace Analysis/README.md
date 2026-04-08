@@ -52,7 +52,7 @@ Visualizing the insights: Here’s a look at the multi-page Power BI report desi
 
 ## 🔗 Project Links
 * **[Live Report Demo](https://app.powerbi.com/view?r=eyJrIjoiYTJlMzRlNGItNzQ3Ni00NjJiLTlkNjUtN2M4OGE3NzQzMDIyIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)** - Interactive Power BI Dashboard.
-* **[Download Power BI File (.pbix)](https://github.com/MohammedRamadanqawuq/Data_Analysis_Projects/blob/main/Europe%20Real%20Estate%20Marketplace%20Analysis/Power%20BI%20File/EU_Real_Estate.pbix)** - Access the raw file to explore the DAX measures and data model. 
+* **[Download Power BI File (.pbix)](https://github.com/MohammedRamadanqawuq/Data_Analysis_Projects/raw/refs/heads/main/Europe%20Real%20Estate%20Marketplace%20Analysis/Power%20BI%20File/EU_Real_Estate.pbix)** - Access the raw file to explore the DAX measures and data model. 
 * **[Python Notebook](https://github.com/MohammedRamadanqawuq/Data_Analysis_Projects/blob/main/Europe%20Real%20Estate%20Marketplace%20Analysis/Notebook/Real_Estate_Project.ipynb)** - Modeling and Data Transformation logic.
 
 ---
