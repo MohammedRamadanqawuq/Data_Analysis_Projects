@@ -40,15 +40,15 @@ Visualizing the insights: Here’s a look at the multi-page Power BI report desi
 
 | Landing_Page | Overview |
 |---|---|
-| ![Landing_Page](https://github.com/MohammedRamadanqawuq/Data_Analysis_Projects/blob/main/Europe%20Real%20Estate%20Marketplace%20Analysis/Power%20BI%20File/Screenshots/1_Landing_Page.PNG) | ![Overview]([Screenshots/Overview.png](https://github.com/MohammedRamadanqawuq/Data_Analysis_Projects/blob/main/Europe%20Real%20Estate%20Marketplace%20Analysis/Power%20BI%20File/Screenshots/1_Overview.PNG)) |
+| ![Landing_Page](https://github.com/MohammedRamadanqawuq/Data_Analysis_Projects/blob/main/Europe%20Real%20Estate%20Marketplace%20Analysis/Power%20BI%20File/Screenshots/1_Landing_Page.PNG) | ![Overview](https://github.com/MohammedRamadanqawuq/Data_Analysis_Projects/blob/main/Europe%20Real%20Estate%20Marketplace%20Analysis/Power%20BI%20File/Screenshots/2_Overview.PNG) |
 
 | Days_on_market_overview | Deep_Days_on_market_overview |
 |---|---|
-| ![Days_on_market_overview](Screenshots/Days_on_market_overview.png) | ![Deep_Days_on_market_overview](Screenshots/Deep_Days_on_market_overview.png) |
+| ![Days_on_market_overview](https://github.com/MohammedRamadanqawuq/Data_Analysis_Projects/blob/main/Europe%20Real%20Estate%20Marketplace%20Analysis/Power%20BI%20File/Screenshots/3_Days_On_Market_Overview.PNG) | ![Deep_Days_on_market_overview](https://github.com/MohammedRamadanqawuq/Data_Analysis_Projects/blob/main/Europe%20Real%20Estate%20Marketplace%20Analysis/Power%20BI%20File/Screenshots/4_Deep_Days_On_Market_Analysis.PNG) |
 
 | Amenities | Deep_Amenities_Analysis |
 |---|---|
-| ![Amenities](Screenshots/Amenities.png) | ![Deep_Amenities_Analysis](Screenshots/Deep_Amenities_Analysis.png) |
+| ![Amenities](https://github.com/MohammedRamadanqawuq/Data_Analysis_Projects/blob/main/Europe%20Real%20Estate%20Marketplace%20Analysis/Power%20BI%20File/Screenshots/5_Amenities.PNG) | ![Deep_Amenities_Analysis](https://github.com/MohammedRamadanqawuq/Data_Analysis_Projects/blob/main/Europe%20Real%20Estate%20Marketplace%20Analysis/Power%20BI%20File/Screenshots/6_Deep_Amenties_Analysis.PNG) |
 
 ## 🔗 Project Links
 * **[Live Report Demo](https://app.powerbi.com/view?r=eyJrIjoiYTJlMzRlNGItNzQ3Ni00NjJiLTlkNjUtN2M4OGE3NzQzMDIyIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)** - Interactive Power BI Dashboard.
