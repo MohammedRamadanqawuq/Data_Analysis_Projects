@@ -40,13 +40,13 @@ Visualizing the insights: Here’s a look at the multi-page Power BI report desi
 
 | Landing_Page | Overview |
 |---|---|
-| ![Landing_Page](https://github.com/MohammedRamadanqawuq/Data_Analysis_Projects/blob/main/Europe%20Real%20Estate%20Marketplace%20Analysis/Power%20BI%20File/Screenshots/1_Landing_Page.PNG) | ![Overview](https://github.com/MohammedRamadanqawuq/Data_Analysis_Projects/blob/main/Europe%20Real%20Estate%20Marketplace%20Analysis/Power%20BI%20File/Screenshots/2_Overview.PNG) |
+| ![Home Page](https://github.com/MohammedRamadanqawuq/Data_Analysis_Projects/blob/main/Europe%20Real%20Estate%20Marketplace%20Analysis/Power%20BI%20File/Screenshots/1_Landing_Page.PNG) | ![Overview](https://github.com/MohammedRamadanqawuq/Data_Analysis_Projects/blob/main/Europe%20Real%20Estate%20Marketplace%20Analysis/Power%20BI%20File/Screenshots/2_Overview.PNG) |
 
-| Days_on_market_overview | Deep_Days_on_market_overview |
+| Days on market overview | Deep Days on market overview |
 |---|---|
-| ![Days_on_market_overview](https://github.com/MohammedRamadanqawuq/Data_Analysis_Projects/blob/main/Europe%20Real%20Estate%20Marketplace%20Analysis/Power%20BI%20File/Screenshots/3_Days_On_Market_Overview.PNG) | ![Deep_Days_on_market_overview](https://github.com/MohammedRamadanqawuq/Data_Analysis_Projects/blob/main/Europe%20Real%20Estate%20Marketplace%20Analysis/Power%20BI%20File/Screenshots/4_Deep_Days_On_Market_Analysis.PNG) |
+| ![Days on market overview](https://github.com/MohammedRamadanqawuq/Data_Analysis_Projects/blob/main/Europe%20Real%20Estate%20Marketplace%20Analysis/Power%20BI%20File/Screenshots/3_Days_On_Market_Overview.PNG) | ![Deep_Days_on_market_overview](https://github.com/MohammedRamadanqawuq/Data_Analysis_Projects/blob/main/Europe%20Real%20Estate%20Marketplace%20Analysis/Power%20BI%20File/Screenshots/4_Deep_Days_On_Market_Analysis.PNG) |
 
-| Amenities | Deep_Amenities_Analysis |
+| Amenities | Deep Amenities Analysis |
 |---|---|
 | ![Amenities](https://github.com/MohammedRamadanqawuq/Data_Analysis_Projects/blob/main/Europe%20Real%20Estate%20Marketplace%20Analysis/Power%20BI%20File/Screenshots/5_Amenities.PNG) | ![Deep_Amenities_Analysis](https://github.com/MohammedRamadanqawuq/Data_Analysis_Projects/blob/main/Europe%20Real%20Estate%20Marketplace%20Analysis/Power%20BI%20File/Screenshots/6_Deep_Amenties_Analysis.PNG) |
 
