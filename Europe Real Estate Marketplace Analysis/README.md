@@ -40,7 +40,7 @@ Visualizing the insights: Here’s a look at the multi-page Power BI report desi
 
 | Landing_Page | Overview |
 |---|---|
-| ![Landing_Page](Screenshots/Landing_Page.png) | ![Overview](Screenshots/Overview.png) |
+| ![Landing_Page](https://github.com/MohammedRamadanqawuq/Data_Analysis_Projects/blob/main/Europe%20Real%20Estate%20Marketplace%20Analysis/Power%20BI%20File/Screenshots/1_Landing_Page.PNG) | ![Overview]([Screenshots/Overview.png](https://github.com/MohammedRamadanqawuq/Data_Analysis_Projects/blob/main/Europe%20Real%20Estate%20Marketplace%20Analysis/Power%20BI%20File/Screenshots/1_Overview.PNG)) |
 
 | Days_on_market_overview | Deep_Days_on_market_overview |
 |---|---|
