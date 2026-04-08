@@ -37,7 +37,7 @@ Before importing into Power BI, I used **Python (Pandas)** to handle the heavy l
 
 ## 🔗 Project Links
 * **[Live Report Demo](https://app.powerbi.com/view?r=eyJrIjoiYTJlMzRlNGItNzQ3Ni00NjJiLTlkNjUtN2M4OGE3NzQzMDIyIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)** - Interactive Power BI Dashboard.
-* **Python notebook:** Check the `/Notebook` folder for the modeling code.
+* **[Python Notebook](https://github.com/MohammedRamadanqawuq/Data_Analysis_Projects/tree/main/Notebook)** - Modeling and Data Transformation logic.
 
 ---
 ## 👨‍💼 Contact Me
