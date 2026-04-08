@@ -35,6 +35,21 @@ Before importing into Power BI, I used **Python (Pandas)** to handle the heavy l
 * **Power BI:** Data Visualization & DAX
 * **Architecture:** Star Schema (Fact/Dimension Modeling)
 
+## 🖼️ Dashboard Preview
+Visualizing the insights: Here’s a look at the multi-page Power BI report designed for this analysis, showcasing the market trends and deep dives.
+
+| Landing_Page | Overview |
+|---|---|
+| ![Landing_Page](Screenshots/Landing_Page.png) | ![Overview](Screenshots/Overview.png) |
+
+| Days_on_market_overview | Deep_Days_on_market_overview |
+|---|---|
+| ![Days_on_market_overview](Screenshots/Days_on_market_overview.png) | ![Deep_Days_on_market_overview](Screenshots/Deep_Days_on_market_overview.png) |
+
+| Amenities | Deep_Amenities_Analysis |
+|---|---|
+| ![Amenities](Screenshots/Amenities.png) | ![Deep_Amenities_Analysis](Screenshots/Deep_Amenities_Analysis.png) |
+
 ## 🔗 Project Links
 * **[Live Report Demo](https://app.powerbi.com/view?r=eyJrIjoiYTJlMzRlNGItNzQ3Ni00NjJiLTlkNjUtN2M4OGE3NzQzMDIyIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)** - Interactive Power BI Dashboard.
 * **[Python Notebook](https://github.com/MohammedRamadanqawuq/Data_Analysis_Projects/blob/main/Europe%20Real%20Estate%20Marketplace%20Analysis/Notebook/Real_Estate_Project.ipynb)** - Modeling and Data Transformation logic.
