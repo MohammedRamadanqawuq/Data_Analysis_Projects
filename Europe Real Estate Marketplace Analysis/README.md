@@ -38,7 +38,7 @@ Before importing into Power BI, I used **Python (Pandas)** to handle the heavy l
 ## 🖼️ Dashboard Preview
 Visualizing the insights: Here’s a look at the multi-page Power BI report designed for this analysis, showcasing the market trends and deep dives.
 
-| Landing_Page | Overview |
+| Home Page | Overview |
 |---|---|
 | ![Home Page](https://github.com/MohammedRamadanqawuq/Data_Analysis_Projects/blob/main/Europe%20Real%20Estate%20Marketplace%20Analysis/Power%20BI%20File/Screenshots/1_Landing_Page.PNG) | ![Overview](https://github.com/MohammedRamadanqawuq/Data_Analysis_Projects/blob/main/Europe%20Real%20Estate%20Marketplace%20Analysis/Power%20BI%20File/Screenshots/2_Overview.PNG) |
 
