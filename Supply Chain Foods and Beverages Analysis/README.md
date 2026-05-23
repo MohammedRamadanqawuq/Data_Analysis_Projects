@@ -82,6 +82,31 @@ The report features 4 dedicated analytical lenses designed to streamline cross-d
 * **Visual Focus:** Monitors operational efficiencies across distribution hubs (such as *Riga Central DC* and *Berlin Export Hub*). Tracks the **Excess Stock Trend (sitting at 9.26%)** via dynamic KPIs to identify capital tie-up. Highlights critical failure points like the **8.177K Expired QTY (0.14% Expired Rate)** utilizing standard warehouse volume metrics (Opening Stock + Received QTY) to balance safety stock profiles against active market demands.
 ---
 
+## 🖼️ Dashboard Screenshots
+
+<details>
+  <summary>📸 Click here to expand and view all report pages</summary>
+  
+  ### 1. Executive Overview
+  ![Executive Overview](https://github.com/MohammedRamadanqawuq/Data_Analysis_Projects/blob/main/Supply%20Chain%20Foods%20and%20Beverages%20Analysis/Report%20Images/1_Executive%20Overview.PNG)
+  
+  ### 2. Product Insights
+  ![Product Insights](https://github.com/MohammedRamadanqawuq/Data_Analysis_Projects/blob/main/Supply%20Chain%20Foods%20and%20Beverages%20Analysis/Report%20Images/2_Product%20Insights.PNG)
+  
+  ### 3. Logistics Insights
+  ![Logistics Insights](https://github.com/MohammedRamadanqawuq/Data_Analysis_Projects/blob/main/Supply%20Chain%20Foods%20and%20Beverages%20Analysis/Report%20Images/3_Logistics%20Insights.PNG)
+
+  ### 4. Manufacturing and Shelf Life
+  ![Manufacturing and Shelf Life](https://github.com/MohammedRamadanqawuq/Data_Analysis_Projects/blob/main/Supply%20Chain%20Foods%20and%20Beverages%20Analysis/Report%20Images/4_Manufacturing%20and%20Shelf%20Life.PNG)
+
+  ### 5. Customer Insights
+  ![Customer Insights](https://github.com/MohammedRamadanqawuq/Data_Analysis_Projects/blob/main/Supply%20Chain%20Foods%20and%20Beverages%20Analysis/Report%20Images/5_Customer%20Insights.PNG)
+
+  ### 6. Inventory Health
+  ![Inventory Health](https://github.com/MohammedRamadanqawuq/Data_Analysis_Projects/blob/main/Supply%20Chain%20Foods%20and%20Beverages%20Analysis/Report%20Images/6_Inventory%20Health.PNG)
+</details>
+
+---
 ## 📈 Strategic Business Recommendations
 1. **Enforce FEFO in Cold Chain Operations:** Due to high expiration rates in *Yogurt* and *Milk* subcategories, deploy automated **FEFO (First-Expired, First-Out)** picking protocols within cold-storage facilities to lower the current **8.177K Expired QTY** drain.
 2. **Audit Bakery Logistical Controls:** Investigate the manufacturing quality checks or distribution transport protocols for the *Bakery* line to eliminate the systemic high-return rates appearing in scatter plot anomalies.
