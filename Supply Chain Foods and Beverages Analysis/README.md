@@ -43,7 +43,7 @@ The architecture completely isolates historical operational transactions from di
 
 ## 💾 DAX Measure & Calculation Layer
 A clean compilation of core calculated metrics optimized for dynamic filtering across the dashboard viewports:
-* **Note: `These are not all Dax measures, There are many DAX measures in the '.pbix file'`
+* Note: `These are not all Dax measures, There are many DAX measures in the '.pbix file'`
 
 | Metric Name | Calculation Logic (DAX) | Strategic Business Purpose |
 | :--- | :--- | :--- |
