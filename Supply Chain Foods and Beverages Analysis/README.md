@@ -77,6 +77,9 @@ The report features 4 dedicated analytical lenses designed to streamline cross-d
 * **Target Audience:** Accounts Management & Commercial Operations.
 * **Visual Focus:** Connects behavioral patterns with corporate bottom lines by isolating **Customers Who Returned the Most Products** (identifying account *C060* and *C074*) against **Top Buyers** (account *C036*). Integrates customer category segments with a **Customer Transactions by Promotion Status** analysis to track promotional elasticity.
 
+### 🌡️ 5. Inventory Health & Risk Analytics
+* **Target Audience:** Inventory Managers, Warehouse Directors, and Procurement Planners.
+* **Visual Focus:** Monitors operational efficiencies across distribution hubs (such as *Riga Central DC* and *Berlin Export Hub*). Tracks the **Excess Stock Trend (sitting at 9.26%)** via dynamic KPIs to identify capital tie-up. Highlights critical failure points like the **8.177K Expired QTY (0.14% Expired Rate)** utilizing standard warehouse volume metrics (Opening Stock + Received QTY) to balance safety stock profiles against active market demands.
 ---
 
 ## 📈 Strategic Business Recommendations
