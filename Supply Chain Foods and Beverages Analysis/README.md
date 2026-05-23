@@ -93,4 +93,4 @@ The report features 4 dedicated analytical lenses designed to streamline cross-d
 1. Ensure **Power BI Desktop** (latest version) is installed on your workstation.
 2. Clone this repository to your local system:
    ```bash
-   git clone [https://github.com/yourusername/supply-chain-food-beverage-analysis.git](https://github.com/yourusername/supply-chain-food-beverage-analysis.git)
+   git clone [https://github.com/MohammedRamadanqawuq/supply-chain-food-beverage-analysis.git](https://github.com/MohammedRamadanqawuq/supply-chain-food-beverage-analysis.git)
