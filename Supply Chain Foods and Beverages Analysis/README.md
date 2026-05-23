@@ -50,7 +50,12 @@ A clean compilation of core calculated metrics optimized for dynamic filtering a
 | **Gross Profit** | `Gross Profit = SUM ( Fact_Orders[GrossProfit] )` | Isolates pure profitability by filtering out baseline COGS. |
 | **OTIF Rate** | `OTIF Rate = AVERAGE ( Fact_Orders[OTIF_Flag] )` | Evaluates overall delivery reliability (Time & Quantity combined). |
 | **Return Rate** | `Return Rate = DIVIDE ( SUM ( Fact_Orders[ReturnQty] ), SUM ( Fact_Orders[OrderQty] ) )` | Diagnostic indicator for product quality or logistics handling errors. |
-| **Stockout Rate** | `Stockout Rate = DIVIDE ( SUM ( Fact_Orders[StockoutFlag] ), COUNTROWS ( Fact_Orders ) )` | Evaluates lost-revenue risks due to raw product unavailability. |
+| **Stock Movement Rate** | `Stock Movement Rate = 
+    DIVIDE(
+        SUM(Inventory_Snapshots[ShippedQty]),
+        [Avg Inventory Units],
+        0
+    )` | his KPI operationally reflects product rotation velocity and capacity utilization, which is vital in the F&B industry to prevent stock stagnation and expiration risks. |
 
 ---
 
