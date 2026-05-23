@@ -1,4 +1,3 @@
-```markdown
 # 📊 End-to-End Foods & Beverages Supply Chain Performance Analysis
 An interactive, impact-driven **Power BI Business Intelligence Dashboard** designed to monitor, analyze, and optimize an end-to-end Food & Beverage Supply Chain dataset. 
 
