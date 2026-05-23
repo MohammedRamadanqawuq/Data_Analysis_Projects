@@ -52,8 +52,9 @@ A clean compilation of core calculated metrics optimized for dynamic filtering a
 | **OTIF Rate** | `OTIF Rate = AVERAGE ( Fact_Orders[OTIF_Flag] )` | Evaluates overall delivery reliability (Time & Quantity combined). |
 | **Return Rate** | `Return Rate = DIVIDE ( SUM ( Fact_Orders[ReturnQty] ), SUM ( Fact_Orders[OrderQty] ) )` | Diagnostic indicator for product quality or logistics handling errors. |
 | **Stock Movement Rate** | `Stock Movement Rate = DIVIDE( SUM(Inventory_Snapshots[ShippedQty]), [Avg Inventory Units], 0)` | لإhis KPI operationally reflects product rotation velocity and capacity utilization, which is vital in the F&B industry to prevent stock stagnation and expiration risks. |
-| **Excess Stock %** | `Excess Stock % = DIVIDE ( SUM ( Inventory_Snapshots[ExcessStockQty] ), SUM ( Inventory_Snapshots[OpeningStock] ) )` | Measures over-stocking issues that tie up working capital in warehouses. |
-| **Expired Rate** | `Expired Rate = DIVIDE ( SUM ( Inventory_Snapshots[ExpiredQty] ), SUM ( Inventory_Snapshots[ShippedQty] + Inventory_Snapshots[ClosingStock] ) )` | Evaluates the financial drain caused by spoilage and missed shelf-life windows. |
+| **Excess Inventory Units** | `Excess Inventory Units = SUMX( Inventory_Snapshots, MAX( Inventory_Snapshots[ClosingStock] - Inventory_Snapshots[ReorderPoint], 0 ) )` | Calculates the exact physical units held in storage that exceed the safety reorder thresholds, indicating over-stocking. |
+| **Excess Stock %** | `Excess Stock % = DIVIDE( [Excess Inventory Units], SUM(Inventory_Snapshots[ClosingStock]), 0 )` | Measures the proportion of stagnant, excess inventory relative to total closing stock to evaluate tied-up working capital. |
+| **Expired Rate** | `Expired Rate = DIVIDE( SUM(Inventory_Snapshots[ExpiredQty]), SUM(Inventory_Snapshots[OpeningStock]) + SUM(Inventory_Snapshots[ReceivedQty]), 0 )` | Evaluates the percentage of total available stock capacity that spoiled or expired, reflecting cold-chain or forecasting failures. |
 
 ---
 
