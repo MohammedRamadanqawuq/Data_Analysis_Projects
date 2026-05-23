@@ -52,6 +52,8 @@ A clean compilation of core calculated metrics optimized for dynamic filtering a
 | **OTIF Rate** | `OTIF Rate = AVERAGE ( Fact_Orders[OTIF_Flag] )` | Evaluates overall delivery reliability (Time & Quantity combined). |
 | **Return Rate** | `Return Rate = DIVIDE ( SUM ( Fact_Orders[ReturnQty] ), SUM ( Fact_Orders[OrderQty] ) )` | Diagnostic indicator for product quality or logistics handling errors. |
 | **Stock Movement Rate** | `Stock Movement Rate = DIVIDE( SUM(Inventory_Snapshots[ShippedQty]), [Avg Inventory Units], 0)` | لإhis KPI operationally reflects product rotation velocity and capacity utilization, which is vital in the F&B industry to prevent stock stagnation and expiration risks. |
+| **Excess Stock %** | `Excess Stock % = DIVIDE ( SUM ( Inventory_Snapshots[ExcessStockQty] ), SUM ( Inventory_Snapshots[OpeningStock] ) )` | Measures over-stocking issues that tie up working capital in warehouses. |
+| **Expired Rate** | `Expired Rate = DIVIDE ( SUM ( Inventory_Snapshots[ExpiredQty] ), SUM ( Inventory_Snapshots[ShippedQty] + Inventory_Snapshots[ClosingStock] ) )` | Evaluates the financial drain caused by spoilage and missed shelf-life windows. |
 
 ---
 
