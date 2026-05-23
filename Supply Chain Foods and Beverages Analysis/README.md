@@ -91,6 +91,4 @@ The report features 4 dedicated analytical lenses designed to streamline cross-d
 
 ## ⚙️ How to Open and Interact with the Dashboard
 1. Ensure **Power BI Desktop** (latest version) is installed on your workstation.
-2. Clone this repository to your local system:
-   ```bash
-   git clone [https://github.com/MohammedRamadanqawuq/supply-chain-food-beverage-analysis.git](https://github.com/MohammedRamadanqawuq/supply-chain-food-beverage-analysis.git)
+2.Download the `.pbix` from here [link](https://github.com/MohammedRamadanqawuq/Data_Analysis_Projects/blob/main/Supply%20Chain%20Foods%20and%20Beverages%20Analysis/Power%20BI/Supply_Chain_Food_and_Beverages_Analysis.pbix)
